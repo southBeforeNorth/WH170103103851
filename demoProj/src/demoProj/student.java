@@ -4,6 +4,7 @@ public class student {
    public String address;
    
    student(){
+	   System.out.println("hello");
 	   
    }
 }
